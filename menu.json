@@ -9,7 +9,32 @@
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
         },
         {
+          "nama": "Mie Goreng Spesial",
+          "harga": 15000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
+        }
+        {
           "nama": "Es Teh Manis",
+          "harga": 5000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
+        }
+      ]
+    }
+     {
+      "id_toko_firestore": "5sTsB9bliBQYzZHxD1sb",
+      "daftar_menu": [
+        {
+          "nama": "Sabun",
+          "harga": 15000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
+        },
+        {
+          "nama": "Sampo",
+          "harga": 15000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
+        }
+        {
+          "nama": "Gula",
           "harga": 5000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
         }
