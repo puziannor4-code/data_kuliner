@@ -1,4 +1,31 @@
 {
+  "kategori_tersedia": [
+    {
+      "nama": "Semua",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_all.png",
+      "warna": "#DFE6E9"
+    },
+    {
+      "nama": "Bakso",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_bakso.png",
+      "warna": "#FAB1A0"
+    },
+    {
+      "nama": "Nasi",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_nasi.png",
+      "warna": "#FFEAA7"
+    },
+    {
+      "nama": "Minuman",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_drink.png",
+      "warna": "#81ECEC"
+    },
+    {
+      "nama": "Sembako",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_mart.png",
+      "warna": "#55E6C1"
+    }
+  ],
   "toko_makanan": [
     {
       "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
@@ -11,13 +38,15 @@
           "nama": "Nasi Goreng Spesial",
           "harga": 15000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg",
-          "deskripsi": "Nasi goreng lezat dengan telur dan ayam."
+          "deskripsi": "Nasi goreng lezat dengan telur dan ayam.",
+          "kategori": "Nasi"
         },
         {
           "nama": "Es Teh Manis",
           "harga": 5000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg",
-          "deskripsi": "Segar dan manis."
+          "deskripsi": "Segar dan manis.",
+          "kategori": "Minuman"
         }
       ]
     },
@@ -25,14 +54,15 @@
       "id_toko_firestore": "5sTsB9bliBQYzZHxD1sb",
       "nama_toko": "ALFAMART KM 30 SIMPANG SAMBA",
       "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/5sTsB9bliBQYzZHxD1sb.jpg",
-      "lat": -1.9254712, 
+      "lat": -1.9254712,
       "lon": 113.1815718,
       "daftar_menu": [
         {
           "nama": "Sabun biore",
           "harga": 25000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/sabun_biore.jpg",
-          "deskripsi": "Deskripsi menu toko kedua."
+          "deskripsi": "Sabun mandi cair menyegarkan.",
+          "kategori": "Sembako"
         }
       ]
     }
