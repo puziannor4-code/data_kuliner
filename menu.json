@@ -2,6 +2,7 @@
   "toko_makanan": [
     {
       "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
+      "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/3fa6Z2CHrTrnXVeAlaQM.jpg",
       "daftar_menu": [
         {
           "nama": "Nasi Goreng Spesial",
