@@ -10,27 +10,29 @@
         {
           "nama": "Nasi Goreng Spesial",
           "harga": 15000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg",
+          "deskripsi": "Nasi goreng lezat dengan telur dan ayam."
         },
         {
           "nama": "Es Teh Manis",
           "harga": 5000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg",
+          "deskripsi": "Segar dan manis."
         }
       ]
     },
     {
       "id_toko_firestore": "5sTsB9bliBQYzZHxD1sb",
+      "nama_toko": "ALFAMART KM 30 SIMPANG SAMBA",
+      "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/5sTsB9bliBQYzZHxD1sb.jpg",
+      "lat": -1.9254712, 
+      "lon": 113.1815718,
       "daftar_menu": [
         {
-          "nama": "Nasi Goreng Spesial",
-          "harga": 15000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
-        },
-        {
-          "nama": "Es Teh Manis",
-          "harga": 5000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
+          "nama": "Sabun biore",
+          "harga": 25000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/Sabun biore.jpg",
+          "deskripsi": "Deskripsi menu toko kedua."
         }
       ]
     }
