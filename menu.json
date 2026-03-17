@@ -24,6 +24,11 @@
       "nama": "Sembako",
       "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_mart.jpg",
       "warna": "#55E6C1"
+    },
+    {
+      "nama": "Promo",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_promo.jpg",
+      "warna": "#FF7675"
     }
   ],
   "toko_makanan": [
@@ -35,18 +40,32 @@
       "lon": 113.2148383,
       "daftar_menu": [
         {
+          "nama": "Bakso Urat Joss",
+          "harga": 18000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/bakso_urat.jpg",
+          "deskripsi": "Bakso urat sapi asli dengan kuah kaldu segar dan sambal pedas mantap.",
+          "kategori": "Bakso"
+        },
+        {
           "nama": "Nasi Goreng Spesial",
           "harga": 15000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg",
-          "deskripsi": "Nasi goreng lezat dengan telur dan ayam.",
+          "deskripsi": "Nasi goreng lezat dengan telur mata sapi, suwiran ayam, dan kerupuk.",
           "kategori": "Nasi"
         },
         {
           "nama": "Es Teh Manis",
           "harga": 5000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg",
-          "deskripsi": "Segar dan manis.",
+          "deskripsi": "Minuman teh segar dengan rasa manis yang pas.",
           "kategori": "Minuman"
+        },
+        {
+          "nama": "Paket Kenyang Bakso",
+          "harga": 20000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/paket_promo.jpg",
+          "deskripsi": "Promo Hemat: 1 Porsi Bakso + Es Teh Manis.",
+          "kategori": "Promo"
         }
       ]
     },
@@ -61,7 +80,14 @@
           "nama": "Sabun biore",
           "harga": 25000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/sabun_biore.jpg",
-          "deskripsi": "Sabun mandi cair menyegarkan.",
+          "deskripsi": "Sabun mandi cair menyegarkan, ampuh membersihkan kuman dan kotoran.",
+          "kategori": "Sembako"
+        },
+        {
+          "nama": "Minyak Goreng 2L",
+          "harga": 34000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/minyak_goreng.jpg",
+          "deskripsi": "Minyak goreng kelapa sawit jernih kualitas pilihan.",
           "kategori": "Sembako"
         }
       ]
