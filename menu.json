@@ -2,27 +2,27 @@
   "kategori_tersedia": [
     {
       "nama": "Semua",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_all.png",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_all.jpg",
       "warna": "#DFE6E9"
     },
     {
       "nama": "Bakso",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_bakso.png",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_bakso.jpg",
       "warna": "#FAB1A0"
     },
     {
       "nama": "Nasi",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_nasi.png",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_nasi.jpg",
       "warna": "#FFEAA7"
     },
     {
       "nama": "Minuman",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_drink.png",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_drink.jpg",
       "warna": "#81ECEC"
     },
     {
       "nama": "Sembako",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_mart.png",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_mart.jpg",
       "warna": "#55E6C1"
     }
   ],
