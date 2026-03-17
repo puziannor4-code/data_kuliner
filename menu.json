@@ -1,45 +1,17 @@
 {
-  "daftar_toko": [
+  "toko_makanan": [
     {
-      "id_toko": "3fa6Z2CHrTrnXVeAlaQM",
-      "nama": "WARUNG NASI GORENG JAY",
-      "kota": "KASONGAN",
-      "alamat": "Jl. Trans Kalimantan No. 88",
-      "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg",
-      "lat": -1.8923,
-      "lon": 113.3821,
-      "menu": [
+      "id_toko_firestore": 3fa6Z2CHrTrnXVeAlaQM,
+      "daftar_menu": [
         {
-          "id_menu": "M001",
           "nama": "Nasi Goreng Spesial",
           "harga": 15000,
-          "deskripsi": "Porsi kenyang",
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
         },
         {
-          "id_menu": "M002",
           "nama": "Es Teh Manis",
           "harga": 5000,
-          "deskripsi": "Segar",
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
-        }
-      ]
-    },
-    {
-      "id_toko": "5sTsB9bliBQYzZHxD1sb",
-      "nama": "TOKO SEMBAKO BAROKAH",
-      "kota": "KASONGAN",
-      "alamat": "Pasar Kasongan",
-      "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg",
-      "lat": -1.8950,
-      "lon": 113.3850,
-      "menu": [
-        {
-          "id_menu": "M101",
-          "nama": "Sabun Mandi",
-          "harga": 15000,
-          "deskripsi": "Wangi",
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
         }
       ]
     }
