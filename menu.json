@@ -15,5 +15,20 @@
         }
       ]
     }
+    {
+      "id_toko_firestore": "5sTsB9bliBQYzZHxD1sb",
+      "daftar_menu": [
+        {
+          "nama": "Nasi Goreng Spesial",
+          "harga": 15000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg"
+        },
+        {
+          "nama": "Es Teh Manis",
+          "harga": 5000,
+          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg"
+        }
+      ]
+    }
   ]
 }
