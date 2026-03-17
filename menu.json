@@ -2,7 +2,10 @@
   "toko_makanan": [
     {
       "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
+      "nama_toko": "BAKSO BULE JL TJILIK RIWUT KM. 26",
       "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/3fa6Z2CHrTrnXVeAlaQM.jpg",
+      "lat": -1.9357216,
+      "lon": 113.2148383,
       "daftar_menu": [
         {
           "nama": "Nasi Goreng Spesial",
