@@ -31,6 +31,13 @@
       "warna": "#FF7675"
     }
   ],
+
+  "banner_promo": [
+    "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_1.jpg",
+    "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_2.jpg",
+    "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_3.jpg"
+  ],
+
   "toko_makanan": [
     {
       "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
