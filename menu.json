@@ -35,6 +35,8 @@
     {
       "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
       "nama_toko": "BAKSO BULE JL TJILIK RIWUT KM. 26",
+      "kota": "KECAMATAN CEMPAGA HULU",
+      "alamat": "3678+P6C, Jl. Tjilik Riwut, Pantai Harapan, Kec. Cempaga Hulu, Kabupaten Kotawaringin Timur, Kalimantan Tengah, Indonesia",
       "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/3fa6Z2CHrTrnXVeAlaQM.jpg",
       "lat": -1.9357216,
       "lon": 113.2148383,
@@ -43,22 +45,8 @@
           "nama": "Bakso Urat Joss",
           "harga": 18000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/bakso_urat.jpg",
-          "deskripsi": "Bakso urat sapi asli dengan kuah kaldu segar dan sambal pedas mantap.",
+          "deskripsi": "Bakso urat sapi asli dengan kuah kaldu segar.",
           "kategori": "Bakso"
-        },
-        {
-          "nama": "Nasi Goreng Spesial",
-          "harga": 15000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/nasi_goreng.jpg",
-          "deskripsi": "Nasi goreng lezat dengan telur mata sapi, suwiran ayam, dan kerupuk.",
-          "kategori": "Nasi"
-        },
-        {
-          "nama": "Es Teh Manis",
-          "harga": 5000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/es_teh.jpg",
-          "deskripsi": "Minuman teh segar dengan rasa manis yang pas.",
-          "kategori": "Minuman"
         },
         {
           "nama": "Paket Kenyang Bakso",
@@ -72,6 +60,8 @@
     {
       "id_toko_firestore": "5sTsB9bliBQYzZHxD1sb",
       "nama_toko": "ALFAMART KM 30 SIMPANG SAMBA",
+      "kota": "KECAMATAN CEMPAGA HULU",
+      "alamat": "km30 simpang samba, Jl. Tjilik Riwut simpang samba No.km30, kasongan sampit, Kec. Cempaga Hulu, Kabupaten Kotawaringin Timur, Kalimantan Tengah 74413, Indonesia",
       "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/5sTsB9bliBQYzZHxD1sb.jpg",
       "lat": -1.9254712,
       "lon": 113.1815718,
@@ -80,14 +70,14 @@
           "nama": "Sabun biore",
           "harga": 25000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/sabun_biore.jpg",
-          "deskripsi": "Sabun mandi cair menyegarkan, ampuh membersihkan kuman dan kotoran.",
+          "deskripsi": "Sabun mandi cair menyegarkan.",
           "kategori": "Sembako"
         },
         {
           "nama": "Minyak Goreng 2L",
           "harga": 34000,
           "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/minyak_goreng.jpg",
-          "deskripsi": "Minyak goreng kelapa sawit jernih kualitas pilihan.",
+          "deskripsi": "Minyak goreng kelapa sawit jernih.",
           "kategori": "Sembako"
         }
       ]
