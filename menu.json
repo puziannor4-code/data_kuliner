@@ -37,6 +37,7 @@
         {
           "nama": "Bakso Urat Joss",
           "harga": 18000,
+          "deskripsi": "Bakso pedas banget",
           "label_promo": "TERLARIS",
           "kategori": "Bakso"
         }
