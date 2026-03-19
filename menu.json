@@ -1,45 +1,20 @@
 {
   "kategori_tersedia": [
-    {
-      "nama": "Bakso",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_bakso.jpg",
-      "warna": "#FAB1A0"
-    },
-    {
-      "nama": "Nasi",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_nasi.jpg",
-      "warna": "#FFEAA7"
-    }
+    {"nama": "Semua", "ikon": "https://raw.githubusercontent.com/.../icon_all.png", "warna": "#DFE6E9"},
+    {"nama": "Bakso", "ikon": "https://raw.githubusercontent.com/.../icon_bakso.png", "warna": "#FAB1A0"},
+    {"nama": "Mie Ayam", "ikon": "https://raw.githubusercontent.com/.../icon_mie.png", "warna": "#FFEAA7"},
+    {"nama": "Sembako", "ikon": "https://raw.githubusercontent.com/.../icon_sembako.png", "warna": "#81ECEC"}
   ],
-
-  "banner_promo": [
-    {
-      "url": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_1.jpg",
-      "target_toko_id": "3fa6Z2CHrTrnXVeAlaQM"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_2.jpg",
-      "target_toko_id": "5sTsB9bliBQYzZHxD1sb"
-    }
-  ],
-
   "toko_makanan": [
     {
       "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
-      "nama_toko": "BAKSO BULE JL TJILIK RIWUT KM. 26",
-      "kota": "KECAMATAN CEMPAGA HULU",
-      "jam_buka": "08:00",
-      "jam_tutup": "21:00",
-      "lat": -1.9357216,
-      "lon": 113.2148383,
-      "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/3fa6Z2CHrTrnXVeAlaQM.jpg",
+      "nama_toko": "BAKSO BULE",
       "daftar_menu": [
         {
-          "nama": "Bakso Urat Joss",
-          "harga": 18000,
-          "deskripsi": "Bakso pedas banget",
-          "label_promo": "TERLARIS",
-          "kategori": "Bakso"
+          "nama": "Bakso Urat",
+          "harga": 15000,
+          "kategori": "Bakso",
+          "gambar": "..."
         }
       ]
     }
