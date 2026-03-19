@@ -1,83 +1,46 @@
 {
-  "kategori_tersedia": [
-    {
-      "nama": "Bakso",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_bakso.jpg",
-      "warna": "#FAB1A0"
-    },
-    {
-      "nama": "Nasi",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_nasi.jpg",
-      "warna": "#FFEAA7"
-    },
-    {
-      "nama": "Minuman",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_drink.jpg",
-      "warna": "#81ECEC"
-    },
-    {
-      "nama": "Sembako",
-      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_mart.jpg",
-      "warna": "#55E6C1"
-    }
-  ],
+  "kategori_tersedia": [
+    {
+      "nama": "Bakso",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_bakso.jpg",
+      "warna": "#FAB1A0"
+    },
+    {
+      "nama": "Nasi",
+      "ikon": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/ic_nasi.jpg",
+      "warna": "#FFEAA7"
+    }
+  ],
 
-  "banner_promo": [
-    "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_1.jpg",
-    "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_2.jpg",
-    "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_3.jpg"
-  ],
+  "banner_promo": [
+    {
+      "url": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_1.jpg",
+      "target_toko_id": "3fa6Z2CHrTrnXVeAlaQM"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/banner_promo_2.jpg",
+      "target_toko_id": "5sTsB9bliBQYzZHxD1sb"
+    }
+  ],
 
-  "toko_makanan": [
-    {
-      "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
-      "nama_toko": "BAKSO BULE JL TJILIK RIWUT KM. 26",
-      "kota": "KECAMATAN CEMPAGA HULU",
-      "alamat": "3678+P6C, Jl. Tjilik Riwut, Pantai Harapan, Kec. Cempaga Hulu, Kabupaten Kotawaringin Timur, Kalimantan Tengah, Indonesia",
-      "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/3fa6Z2CHrTrnXVeAlaQM.jpg",
-      "lat": -1.9357216,
-      "lon": 113.2148383,
-      "daftar_menu": [
-        {
-          "nama": "Bakso Urat Joss",
-          "harga": 18000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/bakso_urat.jpg",
-          "deskripsi": "Bakso urat sapi asli dengan kuah kaldu segar.",
-          "kategori": "Bakso"
-        },
-        {
-          "nama": "Paket Kenyang Bakso",
-          "harga": 20000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/paket_promo.jpg",
-          "deskripsi": "Promo Hemat: 1 Porsi Bakso + Es Teh Manis.",
-          "kategori": "Promo"
-        }
-      ]
-    },
-    {
-      "id_toko_firestore": "5sTsB9bliBQYzZHxD1sb",
-      "nama_toko": "ALFAMART KM 30 SIMPANG SAMBA",
-      "kota": "KECAMATAN CEMPAGA HULU",
-      "alamat": "km30 simpang samba, Jl. Tjilik Riwut simpang samba No.km30, kasongan sampit, Kec. Cempaga Hulu, Kabupaten Kotawaringin Timur, Kalimantan Tengah 74413, Indonesia",
-      "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/5sTsB9bliBQYzZHxD1sb.jpg",
-      "lat": -1.9254712,
-      "lon": 113.1815718,
-      "daftar_menu": [
-        {
-          "nama": "Sabun biore",
-          "harga": 25000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/sabun_biore.jpg",
-          "deskripsi": "Sabun mandi cair menyegarkan.",
-          "kategori": "Sembako"
-        },
-        {
-          "nama": "Minyak Goreng 2L",
-          "harga": 34000,
-          "gambar": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/minyak_goreng.jpg",
-          "deskripsi": "Minyak goreng kelapa sawit jernih.",
-          "kategori": "Sembako"
-        }
-      ]
-    }
-  ]
+  "toko_makanan": [
+    {
+      "id_toko_firestore": "3fa6Z2CHrTrnXVeAlaQM",
+      "nama_toko": "BAKSO BULE JL TJILIK RIWUT KM. 26",
+      "kota": "KECAMATAN CEMPAGA HULU",
+      "jam_buka": "08:00",
+      "jam_tutup": "21:00",
+      "lat": -1.9357216,
+      "lon": 113.2148383,
+      "gambar_toko": "https://raw.githubusercontent.com/puziannor4-code/data_kuliner/main/images/3fa6Z2CHrTrnXVeAlaQM.jpg",
+      "daftar_menu": [
+        {
+          "nama": "Bakso Urat Joss",
+          "harga": 18000,
+          "label_promo": "TERLARIS",
+          "kategori": "Bakso"
+        }
+      ]
+    }
+  ]
 }
